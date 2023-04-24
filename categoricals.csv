@@ -1,0 +1,9 @@
+,Field Name,# Records With Values,% Populated,# Zeros,# Unique Values,Most Common
+0,Recnum,96753,100.0%,0,96753,1
+1,Cardnum,96753,100.0%,0,1645,5142148452
+2,Merchnum,93378,96.51173607019938%,0,13091,930090121224
+3,Merch description,96753,100.0%,0,13126,GSA-FSS-ADV
+4,Merch state,95558,98.76489617892985%,0,227,TN
+5,Merch zip,92097,95.1877461163995%,0,4567,38118.0
+6,Transtype,96753,100.0%,0,4,P
+7,Fraud,96753,100.0%,95694,2,0
